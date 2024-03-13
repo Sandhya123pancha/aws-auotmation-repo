@@ -1,4 +1,3 @@
 git tag --list
 git config -m "Adding file.txt"
-git config --global user.name "sandya"
-git config --global user.email "sandyjunnu123@gmail.com"
+aws-automation
