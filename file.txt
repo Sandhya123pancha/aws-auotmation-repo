@@ -1,3 +1,0 @@
-git tag --list
-git config -m "Adding file.txt"
-aws-automation
